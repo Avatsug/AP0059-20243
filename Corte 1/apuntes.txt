@@ -1,0 +1,13 @@
+## porcentajes y evaluación
+# cortes - 35%
+-> evaluación escrita con apuntes/pc - 15%
+-> tareas (códigos) - 20%
+entregas de tareas:
+
+# examen final - 30%
+
+## comandos para cmd
+mkdir - para crear carpeta
+dir - para enseñar todas las carpetas
+cls - para limpiar la pantalla
+cd - para abrir carpeta
