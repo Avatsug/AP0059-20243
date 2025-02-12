@@ -9,8 +9,8 @@
 float BPM, SpO2;
 
 /Put your SSID & Password/
-const char* ssid = "PUERTORRO";  // Enter SSID here
-const char* password = "1952Javierito";  //Enter Password here
+const char* ssid = "";  // Enter SSID here
+const char* password = "";  //Enter Password here
 
 PulseOximeter pox;
 uint32_t tsLastReport = 0;
